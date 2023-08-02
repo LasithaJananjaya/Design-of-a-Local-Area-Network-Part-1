@@ -1,4 +1,4 @@
-# Design-of-a-Local-Area-Network
+# Design-of-a-Local-Area-Network-Part-1
 
 This is a group activity conducted under the module EN2150 Communication Network Engineering, Semester 4 of the Department of Electronic and Telecommunication Engineering, university of Moratuwa, Sri Lanka.
 
